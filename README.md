@@ -1,6 +1,6 @@
-Author:
+Author: Aaron Teel
 
-Contact Info:
+Contact Info: ateel@uoregon.edu
 
 Project Details: 
                     - This project is a web-based recreation of the ACP calculator used by RUSA. The website, taking in the total race distance via a drop-down menu, taking in the start date via a date selector table, and taking the distances to the mid-race controls via a textbox with user input, will calculate the open and close times for each control that is passed into the grid, as well converting kilometers to miles and vice versa. The open times and close times will be displayed in the datetime format MM:DD HH:mm.
